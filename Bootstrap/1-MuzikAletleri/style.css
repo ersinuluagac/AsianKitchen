@@ -1,0 +1,11 @@
+.hoverActive:hover {
+    text-decoration: underline;
+}
+
+#bacgroundColor {
+    background-color: #E9ECEF;
+}
+
+.overline {
+    text-decoration: line-through;
+}
