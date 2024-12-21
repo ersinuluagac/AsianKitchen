@@ -16,8 +16,8 @@ const getData = async (userId) => {
 
     return userWithPost;
   } catch (error) {
-    console.error('Error fetching data:', error);
-    throw error
+    console.error("Error fetching data:", error);
+    throw error;
   }
 };
 

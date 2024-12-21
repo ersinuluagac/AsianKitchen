@@ -1,11 +1,11 @@
-import getData from './lib/service.js';
+import getData from "./lib/service.js";
 
 const userId = 1;
 
 getData(userId)
-  .then(data => {
+  .then((data) => {
     console.log(data);
   })
-  .catch(error => {
-    console.error('Error:', error)
+  .catch((error) => {
+    console.error("Error:", error);
   });
