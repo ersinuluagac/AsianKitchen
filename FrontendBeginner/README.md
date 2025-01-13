@@ -29,7 +29,7 @@ Web sayfalarını stilize etmek için CSS kullanmayı öğrendim:
 
 ## 6. Bootstrap
 Bootstrap ile responsive web sayfaları tasarlamayı öğrendim:
-- **Bootstrap Nedir?**: Bootstrap 4 ve 5'in temel özellikleri ve kullanımını öğrendim.
+- **Bootstrap**: Bootstrap 4 ve 5'in temel özellikleri ve kullanımını öğrendim.
 - **Grid Sistemi**: 12'lik grid sistemiyle sayfa düzeni oluşturmayı ve responsive tasarım yapmayı öğrendim.
 - **Bileşenler ve Tasarım**: Farklı UI bileşenlerini kullanarak şık ve fonksiyonel web sayfaları tasarladım.
 
