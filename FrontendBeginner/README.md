@@ -47,9 +47,9 @@ JavaScript ile dinamik ve etkileşimli web sayfaları oluşturmayı öğrendim:
 - **Diziler ve Nesneler**: Array ve Object yapıları ile veri manipülasyonu yaptım.
 - **Asenkron Programlama**: Fetch API ile veri çekmeyi ve asenkron işlemleri yönetmeyi öğrendim.
 
-[Beginner Frontend Sertifikası](https://academy.patika.dev/tr/certificates/91c6270f)
-
 ---
+
+[Beginner Frontend Sertifikası](https://academy.patika.dev/tr/certificates/91c6270f)
 
 Bu eğitim süreci boyunca öğrendiklerimi küçük projelerde uygulayarak pekiştirdim ve kodlama konusunda kendimi geliştirdim.
 
