@@ -1,7 +1,7 @@
 # [Asian Kitchen](https://academy.patika.dev/courses/javascript/odev-3)
 
 ## Açıklama
-Bu projede HTML ve CSS kodları proje dahilinde verilmiştir. İstenen Javascript kodlarını yazaraka sayfaya işlevsellik katmaktır.
+Bu projede HTML ve CSS kodları proje dahilinde verilmiştir. İstenen ise JavaScript kodlarını yazarak sayfaya işlevsellik katmaktır.
 
 ---
 
